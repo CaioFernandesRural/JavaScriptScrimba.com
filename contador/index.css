@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://images8.alphacoders.com/616/616750.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    padding: 10px 0px;
+    border: none;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 25px;
+    color: white;
+} 
+
+#aumento {
+    background: darkred;
+}
+
+#salvar {
+    background: darkgreen;
+}

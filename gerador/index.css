@@ -6,6 +6,12 @@ html, body {
     background-color: #1F2937;
 }
 
+label {
+    color: #10B981;
+    font-weight: bold;
+    font-size: large;
+}
+
 button {
     border-radius: 5px;
     background-color: #273549;
@@ -41,6 +47,7 @@ hr {
 #generate {
     color: #FFFFFF;
     background-color: #10B981;
+    flex: 1;
 }
 
 .senhas {
